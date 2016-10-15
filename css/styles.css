@@ -48,6 +48,10 @@ body {
   color: #5d523f;
   padding-top: 10px;
 }
+.mission a:hover {
+  font-weight: bold;
+  color: #b9b660;
+}
 .pane {
   padding-top: 60px;
 }
