@@ -1,0 +1,109 @@
+
+body {
+  background: url('../img/bkgrd_sun.jpeg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #d0c7b3;
+  padding-top: 30px
+}
+.container a {
+  color: #88653c;
+}
+.container a:hover {
+  color: #88653c;
+  font-weight: bold;
+  text-decoration: none;
+}
+.container a:active {
+  color: #88653c;
+}
+}
+.sidebar {
+  float: left;
+}
+.sidebar image {
+  display: inline-block;
+  max-width: 100%;
+  max-height: 100%;
+}
+.sidebar p {
+  padding-top: 10px;
+}
+.nav {
+  width: 18%;
+}
+.nav a {
+  float: right;
+}
+.mission {
+  float: right;
+  padding-top: 20px;
+}
+.mission p {
+  padding-top: 10px
+}
+.pane {
+  padding-top: 50px;
+}
+.pane img {
+  display: inline;
+  padding-right: 20px;
+}
+.pane p {
+  padding-top: 10px
+}
+.pane ul {
+  color: #88653c;
+}
+.pane li {
+  color: #88653c;
+  line-height: 1.75em;
+}
+.pane h4 {
+    color: #88653c;
+    font-weight: bold;
+}
+#work img {
+  width: 210px;
+  float: left;
+  padding-right: 20px;
+}
+#mazama img {
+  width: 150px;
+  float: left;
+  padding-right: 40px;
+}
+#epicodus img {
+  width: 230px;
+}
+#epicodus h4 {
+  padding-top: 10px;
+  padding-left: 25px;
+}
+.mission p {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 1em;
+}
+.footer {
+  color: #7D3E1C;
+  float: left;
+  padding-top: 100px;
+}
+.footer a {
+  color: #7D3E1C;
+}
+.footer a:active {
+  color: #7D3E1C;
+}
+.footer a:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
+.icon img {
+  padding-right: 10px;
+  height: 35px;
+  padding-bottom: 15px;
+}
