@@ -75,6 +75,38 @@ body {
 .pane h4 a:hover {
   font-style: italic;
 }
+.about {
+  color: #88653c;
+  background-color: #e9e6d7;
+  margin-top: 30px;
+  padding-top: 25px;
+}
+.about a:hover {
+  font-weight: bold;
+}
+.FamilyP p {
+  padding-left: 20px;
+  background-color: #e9e6d7;
+}
+.FamilyP h4 {
+  padding-left: 20px;
+}
+.tetonP p {
+  padding-right: 150px;
+  background-color: #e9e6d7;
+}
+#Family img {
+  height: 250px;
+  padding-left: 20px;
+}
+#Summit img {
+  height: 250px;
+}
+#mazamaLogo img {
+  width: 100px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
 #work img {
   width: 170px;
   float: left;
